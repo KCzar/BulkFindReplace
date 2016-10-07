@@ -13,12 +13,12 @@ import numpy
 setup(
     name = 'BulkFindReplace',
     packages = ['BulkFindReplace'], # this must be the same as the name above
-    version = '1.0.1',
+    version = '1.0.2',
     description = 'Fast Find-Replace for large amounts of data using a trie method',
     author = 'Ken Larrey',
     author_email = 'klarrey@gmail.com',
     url = 'https://github.com/KCzar/BulkFindReplace', # use the URL to the github repo
-    download_url = 'https://github.com/KCzar/BulkFindReplace/tarball/1.0.1', # I'll explain this in a second
+    download_url = 'https://github.com/KCzar/BulkFindReplace/tarball/1.0.2', # I'll explain this in a second
     keywords = ['find', 'replace', 'trie'], # arbitrary keywords
     classifiers = [],
 
